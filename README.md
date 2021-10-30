@@ -9,6 +9,9 @@
 산 C 소스 코드.\
 <https://github.com/drypot/san-1.0/>
 
+동봉된 폰트들에 대해서.\
+<https://github.com/drypot/san-1.0/blob/master/doc/FONT.TXT/>
+
 ## License
 
 [MIT](LICENSE)
