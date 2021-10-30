@@ -1,0 +1,17 @@
+{
+  "name": "san-1.0-js-dos",
+  "version": "0.0.1",
+  "description": "san 1.x on js-dos",
+  "scripts": {
+    "start": "http-server docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drypot/san-1.0-js-dos.git"
+  },
+  "author": "Kyuhyun Park <drypot@gmail.com> (https://drypot.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.0.0"
+  }
+}
