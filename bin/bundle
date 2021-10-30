@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-rm -f docs/san.jsdos
+rm -f docs/san.zip
 cd bundle-src
-zip -r ../docs/san.jsdos * .jsdos
+zip -r ../docs/san.zip * .jsdos
